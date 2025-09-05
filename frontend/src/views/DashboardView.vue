@@ -52,7 +52,7 @@ export default {
   <div class="px-6 py-8">
     <div class="mb-8">
       <h1 class="text-3xl font-bold text-gray-900 dark:text-gray-100">Dashboard</h1>
-      <p class="text-gray-600 dark:text-gray-400">Monitor your server infrastructure</p>
+      <p class="text-gray-600 dark:text-gray-400">Monitor your server and lambda infrastructure</p>
     </div>
 
     <!-- Stats Overview -->
